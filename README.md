@@ -25,5 +25,5 @@ https://example.com/page2
 5. **Run the script :**
 
 ```bash
-python FuckingFast.py
+python FF.py
 ```
